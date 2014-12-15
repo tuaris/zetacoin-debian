@@ -23,7 +23,7 @@ Copy the 'debian' folder from this repo into the 'zetacoin_VERSION' directory:
 
 Install dependencies **:
 
-	apt-get install dh-make build-essential
+	apt-get install dh-make build-essential debhelper 
 	apt-get install devscripts fakeroot debootstrap pbuilder
 	apt-get install build-essential libtool autotools-dev autoconf pkg-config libssl-dev
 	apt-get install libboost-all-dev
