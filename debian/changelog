@@ -1,6 +1,5 @@
 zetacoin (0.9.2.4-1) UNRELEASED; urgency=low
 
-  [ Daniel Morante ]
-  * Initial release.
+  * Initial release. (Closes: #773295)
 
  -- Daniel Morante <daniel@morante.net>  Sat, 13 Dec 2014 15:27:22 -0500
